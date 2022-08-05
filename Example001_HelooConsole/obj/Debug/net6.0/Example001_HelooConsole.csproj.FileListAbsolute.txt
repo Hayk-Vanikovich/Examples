@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\bin\Debug\net6.0\Example001_HelooConsole.exe
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\bin\Debug\net6.0\Example001_HelooConsole.deps.json
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\bin\Debug\net6.0\Example001_HelooConsole.runtimeconfig.json
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\bin\Debug\net6.0\Example001_HelooConsole.dll
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\bin\Debug\net6.0\Example001_HelooConsole.pdb
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.dll
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\refint\Example001_HelooConsole.dll
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.pdb
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\Example001_HelooConsole.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Examples\Example001_HelooConsole\obj\Debug\net6.0\ref\Example001_HelooConsole.dll
